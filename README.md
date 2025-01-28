@@ -4,7 +4,7 @@
 
 ## Timeline
 
-- [ ] Lecture 1: Introduction
+- [x] Lecture 1: Introduction
 - [ ] Lecture 2: Basics of Deep Learning
 - [ ] Lecture 3: Pruning and Sparsity (Part I)
 - [ ] Lecture 4: Pruning and Sparsity (Part II)
