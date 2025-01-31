@@ -7,7 +7,7 @@
 - [x] Lecture 1: Introduction
 - [x] Lecture 2: Basics of Deep Learning
 - [x] Lecture 3: Pruning and Sparsity (Part I)
-- [ ] Lecture 4: Pruning and Sparsity (Part II)
+- [x] Lecture 4: Pruning and Sparsity (Part II)
 - [ ] Lecture 5: Quantization (Part I)
 - [ ] Lecture 6: Quantization (Part II)
 - [ ] Lecture 7: Neural Architecture Search (Part I)
